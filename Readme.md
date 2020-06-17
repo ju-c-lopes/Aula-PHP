@@ -9,6 +9,7 @@ Novidades:
 <ul type="circle">
 	<li>variáveis referenciais</li>
 	<li>variáveis variantes</li>
+	<li>Operadores relacionais</li>
 </ul>
 
 
