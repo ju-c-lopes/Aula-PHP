@@ -1,4 +1,4 @@
-#Aulas de PHP - Curso em Vídeo (Gustavo Guanabara)<img src="https://i.imgur.com/JlviyZW.png"/>
+<h1>Aulas de PHP - Curso em Vídeo (Gustavo Guanabara)<img src="https://i.imgur.com/JlviyZW.png"/></h1>
 <img src="https://i.imgur.com/HGoGXIW.png" align="right"/>
 <br/>
 <br/>
