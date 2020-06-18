@@ -10,6 +10,8 @@ Novidades:
 	<li>variáveis referenciais</li>
 	<li>variáveis variantes</li>
 	<li>Operadores relacionais</li>
+	<li>Integração HTML5 + PHP</li>
+	<li>Estrutura condicional</li>
 </ul>
 
 
