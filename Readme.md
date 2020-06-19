@@ -12,6 +12,7 @@ Novidades:
 	<li>Operadores relacionais</li>
 	<li>Integração HTML5 + PHP</li>
 	<li>Estrutura condicional</li>
+	<li>Switch, While</li>
 </ul>
 
 
