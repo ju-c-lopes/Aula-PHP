@@ -12,8 +12,9 @@ Novidades:
 	<li>Operadores relacionais</li>
 	<li>Integração HTML5 + PHP</li>
 	<li>Estrutura condicional</li>
-	<li>Switch, While</li>
+	<li>Switch, While, For</li>
 </ul>
 
 
-&reg; 06/2020
+<h4>&reg; 06/2020</h4>
+<a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k">Curso PHP Iniciante - Curso em Vídeo</a>
