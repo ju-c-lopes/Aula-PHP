@@ -13,6 +13,7 @@ Novidades:
 	<li>Integração HTML5 + PHP</li>
 	<li>Estrutura condicional</li>
 	<li>Switch, While, For</li>
+	<li>Rotinas em PHP</li>
 </ul>
 
 
