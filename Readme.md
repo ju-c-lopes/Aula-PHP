@@ -14,6 +14,7 @@ Novidades:
 	<li>Estrutura condicional</li>
 	<li>Switch, While, For</li>
 	<li>Rotinas em PHP</li>
+	<li>Funções p/ Strings</li>
 </ul>
 
 
