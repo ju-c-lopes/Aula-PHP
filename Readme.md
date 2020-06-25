@@ -15,7 +15,10 @@ Novidades:
 	<li>Switch, While, For</li>
 	<li>Rotinas em PHP</li>
 	<li>Funções p/ Strings</li>
-</ul>
+	<li>Arrays e funções</li>
+</ul><br/><br/>
+
+Curso Finalizado ! ! !
 
 
 <h4>&reg; 06/2020</h4>
